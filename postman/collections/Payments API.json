@@ -41,6 +41,24 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "Gloabal Debit",
+			"id": "66b7335f-5226-4465-983e-9ed34bb03cc4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "/gloabal debits",
+					"path": [
+						"gloabal debits"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
