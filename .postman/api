@@ -1,0 +1,14 @@
+id = 41fbba61-f774-4d62-85c1-00c0a6117e91
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"12420868-d02da8c1-b700-4592-8521-0a466c559d6d","path":"Payments API.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
