@@ -1,4 +1,4 @@
-id = 41fbba61-f774-4d62-85c1-00c0a6117e91
+id = 7fbd97be-4e7c-4821-bb84-fd51200aaedb
 
 [relations]
 
@@ -10,5 +10,8 @@ files[] = {"id":"12420868-d02da8c1-b700-4592-8521-0a466c559d6d","path":"Payments
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3
+rootFiles[] = index.yaml
